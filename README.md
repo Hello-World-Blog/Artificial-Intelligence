@@ -7,4 +7,4 @@ Deep Learning is a subset of Machine Learning, which deals with complex data.
   
 This repository contains implementation of several Machine Learning and Deep Learning algorithms in Python, along with a brief mathematical explanation.
 
-Visit my site at https://learnai1.home.blog/ for interesting blogs on AI.
+Visit our site at https://learnai1.home.blog/ for various technical writings.
