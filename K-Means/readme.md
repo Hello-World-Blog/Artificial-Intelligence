@@ -1,1 +1,1 @@
-Visit my post on HelloWorld at https://learnai1.home.blog/ for more detailed explanation.
+Visit my post on HelloWorld at https://learnai1.home.blog/2020/06/19/k-means-algorithm/ for more detailed explanation.
